@@ -1,25 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rajat Yadav</h1>
-<h3 align="center">A Computer Science Student At ICCS</h3>
+![Rajat Yadav Banner](https://your-image-link.com/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatyadav011&label=Profile%20views&color=0e75b6&style=flat" alt="rajatyadav011" /> </p>
+<div align="center">
+  <h1>👋 Hi, I'm Rajat Yadav!</h1>
+  <p>🚀 DevOps Enthusiast | Python Developer | Open-Source Contributor</p>
+  <p>
+    <a href="https://linkedin.com/in/rajatyadav011"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/rajatyadav011"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="mailto:im.rajat33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on [AI Powered Resume Analayzer](https://github.com/rajatyadav011/AI_Powered_Resume_Analyzer)
+---
 
-- 🌱 I’m currently learning **AI/ML**
+## 🚀 About Me
+- 🎓 **Bachelor of Computer Science** | Indira College of Commerce and Science (2022-2025)
+- 🏆 **DevOps & Cloud Enthusiast** (Azure)
+- 🛠️ Love building innovative projects with **Python, C, SQL, and DevOps tools**
+- 🌍 Passionate about **Open Source, Automation, and Cloud Technologies**
+- 📈 Constantly learning and growing in **Linux, GitHub, and CI/CD Pipelines**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajatyadav011](https://github.com/rajatyadav011)
+---
 
-- 💬 Ask me about **Python, AI, DevOps**
+## 🔧 Tech Stack
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 📫 How to reach me **im.rajat33@gmail.com**
+### 🛠️ DevOps & Cloud Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajatyadav011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajatyadav011/" height="30" width="40" /></a>
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🔥 Projects
+### 🚀 AI-Powered Resume Analyzer (Ongoing)
+🔹 Built with **Python, Machine Learning, NLP, Flask, and MongoDB**
+🔹 Analyzes resumes and provides structured feedback for improvements
+🔹 [GitHub Repository](https://github.com/rajatyadav011/AI-Resume-Analyzer)
+
+### 🤖 Sign Language Translator
+🔹 Uses **Arduino, C, and sensors** to translate sign language into speech & text
+🔹 Helps bridge communication gaps for the hearing impaired
+🔹 [GitHub Repository](https://github.com/rajatyadav011/Sign-Language-Translator)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatyadav011&show_icons=true&theme=tokyonight" width="50%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadav011&theme=tokyonight" width="50%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadav011&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatyadav011&show_icons=true&locale=en&layout=compact" alt="rajatyadav011" /></p>
+## 🤝 Let's Connect!
+- 📧 **Email**: im.rajat33@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/rajatyadav011](https://linkedin.com/in/rajatyadav011)
+- 🏗️ **GitHub**: [github.com/rajatyadav011](https://github.com/rajatyadav011)
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!** ⭐
 
