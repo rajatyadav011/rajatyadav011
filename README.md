@@ -43,7 +43,7 @@
 ### 🚀 AI-Powered Resume Analyzer (Ongoing)
 🔹 Built with **Python, Machine Learning, NLP, Flask, and MongoDB**
 🔹 Analyzes resumes and provides structured feedback for improvements
-🔹 [GitHub Repository](https://github.com/rajatyadav011/AI-Resume-Analyzer)
+🔹 [GitHub Repository](https://github.com/rajatyadav011/AI_Powered_Resume_Analyzer)
 
 ### 🤖 Sign Language Translator
 🔹 Uses **Arduino, C, and sensors** to translate sign language into speech & text
